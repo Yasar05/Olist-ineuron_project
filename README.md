@@ -1,6 +1,6 @@
 # Olist-end-to-end-project
 # iNeuron Internship Team Members:
-Yashar Arafath, Puran Prakash Sinha Project (Team Lead)
+Yashar Arafath(Team Lead), Puran Prakash Sinha Project (Team Lead)
 Ayushi choudhary Project Intern, Sudha s Project Intern, Ishita Maity Project intern
 Ashwin Jain Project Intern, Kisalay Srivastava Project Intern
 # Abstract
