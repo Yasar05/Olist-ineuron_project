@@ -8,6 +8,8 @@ This is a Brazilian ecommerce public dataset of orders made at Olist Store. The 
 
 In this project, we analyzed a Brazilian e-commerce public dataset of orders made at Olist Store, the largest department store in Brazilian marketplaces. The dataset has orders from Oct 2016 to Nov 2018 made at multiple marketplaces in Brazil. Its features allows viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers. There was also a geolocation dataset that includes Brazilian zip codes with latitude and longitude.This dataset gave us an insight into the dynamics of an e-commerce industry. We used multiple methods to explore the data since we have different kinds of data sources. We also used the classification models to predict customer ratings (Low, Medium & High) and On-time Delivery Binary Classification. We also performed market segmentation based on the geolocation dataset through using k-means clustering and identified the different customer bases or possible market penetration locations. We also performed NLP and Sentimental Analysis on Comments/Reviews of Customers and identified the major features affecting the customer satisfaction. We believe our recommendations will enable Olist Store’s Operational Improvement and ultimately enable higher profits for the organisation.
 
+https://user-images.githubusercontent.com/50973416/61503477-d9b28780-aa12-11e9-81ee-9ac5419ce226.png
+
 # Tasks:
 Some of the information or analysis that we extracted from this dataset include:
 
